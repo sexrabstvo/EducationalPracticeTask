@@ -1,1 +1,1 @@
-# EducationalPracticeTask
+# Практическое задание
